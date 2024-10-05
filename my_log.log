@@ -1,0 +1,10 @@
+2024-10-05 15:41:20,618 - DEBUG - This is a debug msg
+2024-10-05 15:41:20,618 - INFO - This is a info msg
+2024-10-05 15:41:20,618 - WARNING - This is a warning msg
+2024-10-05 15:41:20,618 - ERROR - This is a error msg
+2024-10-05 15:41:20,618 - CRITICAL - this is a critical msg
+2024-10-05 15:41:27,388 - DEBUG - This is a debug msg
+2024-10-05 15:41:27,388 - INFO - This is a info msg
+2024-10-05 15:41:27,388 - WARNING - This is a warning msg
+2024-10-05 15:41:27,389 - ERROR - This is a error msg
+2024-10-05 15:41:27,389 - CRITICAL - this is a critical msg
